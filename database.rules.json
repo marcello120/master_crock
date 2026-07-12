@@ -1,0 +1,35 @@
+{
+  "rules": {
+    "users": {
+      "$uid": {
+        ".read": "auth != null && auth.uid == $uid",
+        ".write": "auth != null && auth.uid == $uid"
+      }
+    },
+    "lobbies": {
+      ".read": "auth != null",
+      "$lobbyId": {
+        ".write": "auth != null",
+        "players": {
+          "$uid": {
+            ".write": "auth != null && (auth.uid == $uid || data.parent().parent().child('hostId').val() == auth.uid)"
+          }
+        }
+      }
+    },
+    "games": {
+      "$gameId": {
+        "public": {
+          ".read": "auth != null",
+          ".write": "auth != null && (!data.exists() || data.child('players').child(auth.uid).exists())"
+        },
+        "private": {
+          "$uid": {
+            ".read": "auth != null && auth.uid == $uid",
+            ".write": "auth != null && auth.uid == $uid"
+          }
+        }
+      }
+    }
+  }
+}

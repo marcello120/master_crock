@@ -1,0 +1,127 @@
+image_name,crok_name,ability_name,ability_text,power,intelligence,reflex,id,tribe
+001.jpg,Master Crok,Váratlan csapás,"Kicserélheted egy másik, a kezedben levő Crokra, ha az nem Master Crok.",8,7,9,1/21,master
+002.jpg,Bond Crok,Trükkös fordulat,"Megváltoztathatod a harc típusát: erő, intelligencia vagy reflex.",5,6,7,2/21,gun
+003.jpg,Devil Crok,Lélekrablás,"Használhatja egy másik játékos, egyik vesztes Crokjának képességét.",6,6,6,3/21,hell
+004.jpg,Samurai Crok,Első vágás,Azonnal hatástalanítja az ellenfelek képességeit.,6,4,8,4/21,yingyang
+005.jpg,Angel Crok,Feltámasztás,Visszaveheted a kezedbe egy vesztes Crokodat.,3,4,7,5/21,heaven
+006.jpg,Captain Crok,Nagy ütközet,"Ütközetet indíthatsz: mindenki kiteszi paklijának legfelső Crokját, aki csatlakozik a harcolókhoz. Az értékek összege számít.",5,6,3,6/21,compass
+007.jpg,Executor Crok,Nincs kegyelem,A kiszemelt másik játékos választ és lerak egy lapot a vesztes Crokjaihoz.,7,4,3,7/21,hell
+008.jpg,Jungle Crok,Dzsungelharc,"Kicserélheted a paklid legfelső Crokjára, anélkül, hogy megnéznéd, hogy melyik az a lap.",6,3,5,8/21,knife
+009.jpg,Sensei Crok,Tanítás ereje,A következő harcban Crokjaid minden értéke eggyel megnő.,2,9,3,9/21,yingyang
+010.jpg,Sumo Crok,Lehengerlés,"Kettővel nő az ereje, ha intelligensebb, mint az ellenfelei.",8,5,1,10/21,cup
+011.jpg,Pancrator Crok,Tömegverekedés,"Ha veszít, akkor a következő harc vakharccal indul, te választod meg a típusát.",9,2,3,11/21,fast
+012.jpg,Army Crok,Sorozatlövés,"Az értékei annyival megnőnek, ahány ellenfele van. A kicserélt Crokok is újabb ellenfélnek számítanak.",3,4,4,12/21,knife
+013.jpg,Boy Crok,Pimasz csínytevés,A következő körben te támadsz. Védekezéskor +2 reflex.,1,4,6,13/21,flower
+014.jpg,Cave Crok,Dühöngés,"Annyival megnőnek az értékei, amennyivel kevesebb a nyertes lapod, mint a kiválasztott ellenfelednek.",7,1,3,14/21,fast
+015.jpg,Funny Crok,Van másik !,Egy másik játékos Crokját kicseréltetheted paklijának legalsó lapjára.,1,6,4,15/21,flower
+016.jpg,Gladiator Crok,Pajzsharc,A harc típusát erőre változtathatod.,5,1,5,16/21,compass
+017.jpg,Indian Crok,Felderítés,Átnézheted a paklid felső 6 Crokját és megváltoztathatod a sorrendjüket.,3,5,3,17/21,western
+018.jpg,Karate Crok,Tigriskarom,"Ha a vesztesek közé raksz egy Crokot a kezedből, akkor annak erejét használhatod a harcban.",2,3,6,18/21,cup
+019.jpg,Police Crok,Letartóztatás,"Nyer, ha a vesztesek közé dobod a kezedből bármelyik másik játékos Crokjának mását.",4,3,4,19/21,gun
+020.jpg,Priest Crok,Ima,"Azonnal hatástalanítja a tűz Crokok képességeit, vagy húzhatsz egy lapot.",2,7,2,20/21,heaven
+021.jpg,Sheriff Crok,Pisztolypárbaj,"Nyer, ha az aktuális eredmény döntetlen.",3,3,5,21/21,western
+022.jpg,Master Crok,Hirtelen segítség,"Kicserélheted egy másik, a paklidban levő Crokra, ha az nem Master Crok.",9,8,7,22/42,master
+023.jpg,Cyber Crok,Átalakulás,"Ha a Cyber már nyertes, és a harcoló Crokod még nem használta a képességét, akkor egy alkalommal kicserélheted őt a harcoló Crokodra.",8,4,6,23/42,knife
+024.jpg,Dracula Crok,Vérszívás,"Ha nyer, akkor a kiválasztott játékos egy nyertes Crokját a vesztesek közé rakja.",6,5,7,24/42,hell
+025.jpg,Dragon Crok,Sárkánylehelet,"A vesztesek közé kerülnek mindazok a harcoló Crokok, akiknek kisebb a reflexe, mint a Dragonnak.",9,5,4,25/42,compass
+026.jpg,Barbar Crok,Majd a hideg acél!,"Semlegesítheted a képességét egy olyan Croknak, akinél nagyobb a reflexed.",8,1,5,26/42,compass
+027.jpg,Boxer Crok,K.O.,"Nyer, ha az erejének és a reflexének összege nagyobb, mint az ellenfeleié.",5,3,6,27/42,cup
+028.jpg,Gangster Crok,Leszámolás,"Az ellenfelek értékei annyival csökkennek, amennyivel kevesebb lap van a te kezedben, mint a kiválasztott játékosnál.",5,4,5,28/42,gun
+029.jpg,General Crok,Titkos akció,"Ha a következő harcot megnyered, akkor az egyik vesztes Crokodat kicserélheted az egyik nyertesedre.",4,7,3,29/42,knife
+030.jpg,Knight Crok,Szent védelem,"Az értékei annyival megnőnek, ahány vesztes Crokod van.",7,3,4,30/42,heaven
+031.jpg,Prof Crok,Találmány,"Ha nyer, akkor a következő körben két Crokot küldhetsz harcba. Az egyiknek az értékét, a másiknak a képességét használhatod.",3,7,4,31/42,flower
+032.jpg,Rodeo Crok,Őrült vágta,"Azok a Crokok, akiknek kisebb a reflexe, csak úgy tudják használni a képességüket, ha kettővel csökkentik minden értéküket.",4,2,8,32/42,western
+033.jpg,Amor Crok,Vak szerelem,"Ha kiválasztasz két olyan Crokot, akiknek egyik értéke megegyezik, akkor mindkettő a vesztesek közé kerül.",2,3,6,33/42,flower
+034.jpg,Bandit Crok,Bankrablás,"A kiszemelt másik játékos vagy a vesztesek közé rakja egy nyertes Crokját, vagy a Bandita értékei megnőnek a nyertesei számával.",5,3,3,34/42,western
+035.jpg,Holy Crok,Isteni áldás,"Az épp harcoló Croknak kettővel megnöveli egy értékét, ha a Holy Crokot a kezedből a vesztesek közé teszed.",1,5,5,35/42,heaven
+036.jpg,Judo Crok,Átdobás,"Megnövelheted az egyik értékedet a kiválasztott ellenfeled legkisebb értékével, ha az már használta a képességét.",4,4,3,36/42,cup
+037.jpg,Monster Crok,Hideg rémület,"Minden más, nem Monster Crok értéke eggyel csökken. A következő harcban a Monster Crokjaid értékei kettővel megnőnek.",6,1,4,37/42,hell
+038.jpg,Ninja Crok,Shuriken,"Egy ellenfél reflexét vagy erejét annyiszor kettővel csökkentheted, ahány Crokot a kezedből a vesztesek közé dobsz.",4,2,5,38/42,yingyang
+039.jpg,Punk Crok,Bandaháború,"Az értékei annyival megnőnek, ahány Crokot a kezedből a vesztesek közé dobsz. A Punk Crokok duplán számítanak.",5,2,4,39/42,gun
+040.jpg,Witch Crok,Szemmelverés,"Megnevezhetsz egy Crokot, akinek a képességét a következő 3 harcban senki sem használhatja.",1,7,3,40/42,fast
+041.jpg,Wizard Crok,Borzalmas varázslat,"Használhatod bármelyik játékos, nyertes nem Master Crokjának a képességét.",2,8,1,41/42,fast
+042.jpg,Yakuza Crok,Elszánt harc,"Ha veszít, akkor a következő húzás helyett kiválaszthatsz egy yin-yang vagy pisztoly csoportba tartozó Crokot.",7,2,2,42/42,yingyang
+043.jpg,Master Crok,Utánam!,A veszteseid közül csatlakoztathatsz a harchoz egy Crokot. Az értékek összege számít.,9,7,8,43/63,master
+044.jpg,Jean d'Arc Crok,Deo gloria!,"Nyer, ha a harc típusán kívüli két értéke jobb, mint az ellenfeleinek.",4,7,7,44/63,french
+045.jpg,Napoleon Crok,A hatalom ára,Átnézheted a paklid felső hat Crokját és az egyiket a kezedbe veheted.,6,9,3,45/63,french
+046.jpg,Terminator Crok,Hasta la vista baby!,Minden ellenfelének kettővel csökkenti az értékeit.,9,4,5,46/63,film
+047.jpg,Cleopatra Crok,A szépség ereje,"Erejét megnöveli egy győztes Crok erejével, ha azt a vesztesek közé rakod.",3,7,4,47/63,ancient
+048.jpg,D'Artagnan Crok,Egy mindenkiért,A harc típusát reflexre változtathatod.,3,3,8,48/63,french
+049.jpg,Hannibal Crok,Ahol egy ló elfér,"Ha minden ellenfelénél intelligensebb, akkor az ellenfelek számával megnő az ereje.",5,8,1,49/63,ancient
+050.jpg,Robin Crok,Ide a kincset!,"A kiválasztott ellenfeleknek annyival csökkenti az intelligenciáját, amennyivel több azoknak a nyertese.",3,7,4,50/63,film
+051.jpg,Spartacus Crok,Lázadás!,"Lázadást szíthatsz: mindenki kiteszi paklijának legfelső két Crokját, akik csatlakoznak a harcolókhoz. Az értékek összege számít.",7,3,4,51/63,ancient
+052.jpg,Super Crok,A végtelenbe!,Használhatod egy ellenfeled képességét.,6,4,4,52/63,film
+053.jpg,Zorro Crok,Álarc,"Kicserélheted egy másik lapra a vesztesek közül, ha a Zorro intelligenciája a nagyobb.",2,6,6,53/63,film
+054.jpg,Air Crok,Őselem: Levegő,Az összes ellenfél reflexe feleződik.,1,3,7,54/63,element
+055.jpg,Attila Crok,Hátranyilazás,Védekezéskor minden értéke a kiválasztott ellenfele legkisebb értékével megnő.,4,2,8,55/63,globe
+056.jpg,Earth Crok,Őselem: Föld,"Annyival nő az ereje, amennyi nyertesed van.",7,1,3,56/63,element
+057.jpg,Fire Crok,Őselem: Tűz,"Annyival nő a reflexe, amennyi nyertesed van.",3,1,7,57/63,element
+058.jpg,Massai Crok,Őrségben,"Kicserélheted egy másik lapra, a kezedben lévők közül, ha a Massai reflexe legalább akkora, mint az egyik ellenfélé.",5,2,4,58/63,globe
+059.jpg,Persian Crok,Dárdát szegezz!,"Azonnal, ahányszor egy ellenfélnek megnőnek az értékei, a Persian Croknak is hárommal megnőnek az értékei.",6,2,3,59/63,globe
+060.jpg,Pharaoh Crok,Kocsira!,"Ha a harc típusa reflex, akkor a kiválasztott ellenfél lerak két lapot a vesztesek közé.",4,2,5,60/63,ancient
+061.jpg,Quasimodo Crok,Ébredj!,"Azonnal, ha egy ellenfél cserél, akkor a harc típusát erőre változtatja.",9,1,1,61/63,french
+062.jpg,Viking Crok,Az ősökért!,Használhatod egy vesztes Crokod képességét.,6,1,4,62/63,globe
+063.jpg,Water Crok,Őselem: Víz,"Annyival nő az intelligenciája, amennyi nyertesed van.",3,7,1,63/63,element
+064.jpg,Master Crok,Dupla vagy semmi!,"Használhatod két másik, vesztes, nyertes vagy kezedben lévő nem Master Crok képességét, egymás után.",7,9,8,64/84,master
+065.jpg,Horror Crok,Dupla Álkapocs,"Annyival nő az ereje, amennyivel nagyobb a reflexe, mint a kiválasztott ellenfelének.",6,3,9,65/84,scifi
+066.jpg,Mathias Rex Crok,Fekete sereg,"Ezentúl, amíg nyílt lapokkal játszol, minden Crokod értéke kettővel megnő.",7,8,3,66/84,hun
+067.jpg,Kinizsi Crok,Aprítsd az ellent!,"Használhatod egy kezedben lévő nem Master Crokod képességét, amit meg kell mutatnod.",7,4,7,67/84,hun
+068.jpg,Druida Crok,Gyógyítás,"Visszaveheted a kezedbe egy vesztes Crokodat, akinél intelligensebb a Druida.",3,8,3,68/84,fantasy
+069.jpg,Genie Crok,Mit parancsol?,Kikereshetsz egy Crokot a paklidból és kézbeveheted.,8,3,3,69/84,moon
+070.jpg,Magic Crok,Bűvöskard,"Azonnal nyer, ha egy ellenfélnek megnőnek az értékei.",4,4,6,70/84,fantasy
+071.jpg,Münchausen Crok,Úgy ám!,"Az épp harcoló Croknak hárommal megnöveli az intelligenciáját, ha Münchausent a kezedből a vesztesek közé rakod.",3,6,5,71/84,moon
+072.jpg,Nemo Crok,Mobilis in mobili,"Azonnal hatástalanítja a cserélős képességeket, és minden ilyen hatástalanításért hárommal megnőnek az értékei.",5,7,2,72/84,ship
+073.jpg,Neptun Crok,Szökőár,Minden ellenfelet kicseréltethetsz a többi játékos egy-egy véletlenszerű vesztes Crokjaira.,7,5,2,73/84,ship
+074.jpg,Predator Crok,Végzetes harapás,Felezi egy ellenfél erejét ha nagyobb a reflexe. Felezi egy ellenfél reflexét ha nagyobb az ereje.,7,1,6,74/84,ship
+075.jpg,Astronaut Crok,Energiafegyver,A vesztesek közé kerülnek mindazok a Crokok akiknek akármelyik értékük megegyezik a paklid felső Crokjának bármelyik értékével.,6,4,1,75/84,scifi
+076.jpg,Betyar Crok,Ostorcsapás,"Az épp harcoló Croknak hárommal megnöveli a reflexét, ha a Betyar Crokot a kezedből a vesztesek közé rakod.",2,2,7,76/84,hun
+077.jpg,Don Quixote Crok,Szélmalomharc,Kicserélheted egy vesztes Crokra.,3,6,2,77/84,moon
+078.jpg,Electro Crok,Rövidzárlat,"Nyer, ha minden értéke kisebb mint az ellenfeleinek.",2,3,2,78/84,scifi
+079.jpg,Hussar Crok,Huszárvágás,"Nyer, ha az intelligenciájának és a reflexének összege nagyobb, mint az ellenfeleié.",2,4,5,79/84,hun
+080.jpg,Janissary Crok,Allah szakállára!,"Ha védekezik, akkor kicserélheted egy kezedben lévő Crokra.",5,2,4,80/84,moon
+081.jpg,Kund Crok,Buvártámadás,Kicserélheted a paklid legalsó lapjára. Utána keverd meg a paklidat.,3,1,7,81/84,ship
+082.jpg,Normand Crok,Fejszecsapás,"Annyival megnőnek az értékei, amennyivel több vesztesed van, mint a kiválasztott ellenfelednek.",6,2,3,82/84,fantasy
+083.jpg,UFO Crok,Nanu-Nanu,"A harc típusát intelligenciára változtathatod, ha egy lapot a vesztesek közé raksz.",1,9,1,83/84,scifi
+084.jpg,Skeleton Crok,Ez még mozog,"Ha veszít, akkor visszakerül a játékos kezébe.",8,1,2,84/84,fantasy
+s2-001.jpg,Master Crok,Te jössz!,Kicserélheted egy kezedben lévő Crokra.,9,7,8,1/42,master
+s2-002.jpg,Augustus Crok,Ősi erkölcs,"Az értékei annyival megnőnek, ahány nyertesed van.",4,8,5,2/42,emperor
+s2-003.jpg,Julius Caesar Crok,A kocka el van vetve,"Kicserélheted egy másik, a kezedben levő Crokra.",5,9,5,3/42,emperor
+s2-004.jpg,Maximus Crok,Ezt akartátok?,"Nyer, ha a reflexe és az intelligenciájának az összege nagyobb mint az ellenfeleié.",7,5,9,4/42,gladiator
+s2-005.jpg,Jupiter Crok,Villám csapás,"A harcoló Crok képessége helyett, mutasd meg Jupitert, azután keverd be a paklidba és hárommal csökkentsd az egyik ellenfél erejét és reflexét.",5,4,8,5/42,lightning
+s2-006.jpg,Marcus Aurelius Crok,Végzet,"Kicserélheted a paklid egy véletlenszerű lapjára. Ha Kleopátra Crok a nyerteseid között van, akkor 3-al megnőnek az értékei.",6,9,4,6/42,emperor
+s2-007.jpg,Mars Crok,Háború!,"Mindenki kiteszi paklijának legfelső két Crokját, akik csatlakoznak a harcolókhoz. Az értékek összege számít, a képességek nem működnek.",9,5,2,7/42,lightning
+s2-008.jpg,Pompeius Crok,Győztes,Azonnal semlegesíti a Császár és a Diktátor Crokok képességét minden semlegesítésért kettővel nőnek értékei.,7,5,4,8/42,rome
+s2-009.jpg,Scipio Africanus Crok,Rugalmas hadvezetés,Azonnal hatástalanítja az ellenfelek képességeit.,7,7,6,9/42,rome
+s2-010.jpg,Spartacus Crok,Rabszolga Lázadás,"Vegyél a kezedbe maximum 3 nem római vagy gladiátor Crokot a veszteseid közül, ennyiszer megszorozhatod az egyik értékét.",7,5,5,10/42,gladiator
+s2-011.jpg,Traianus Crok,A Dákok legyőzője,"Ha az ellenfél használta a képességét, akkor egy vesztes Crokodat mellé rakhatod a harcban.",6,6,5,11/42,rome
+s2-012.jpg,Ben Hur Crok,Fogatverseny,Megváltoztathatod a harc típusát: intelligencia vagy reflex.,6,7,7,12/42,gladiator
+s2-013.jpg,Brutus Crok,Árulás,"Reflexe és ereje megduplázódik, ha diktátor vagy császár kártya ellen harcol.",4,6,5,13/42,tyrant
+s2-014.jpg,Caligula Crok,Kötélre vele!,"Vesztesek közé tehet egy Crokot, akinél erősebb és intelligensebb.",6,7,2,14/42,tyrant
+s2-015.jpg,Commodus Crok,Kiszolgáltatni,"Kétszer annyival növelheted minden értékét, amennyi lapot kidobsz a vesztes lapok közé.",3,4,3,15/42,tyrant
+s2-016.jpg,Diocletianus Crok,Dominatus,"Használhatod, egy olyan ellenséges Croknak a képességét, amelyik intelligenciájánál nagyobb a te intelligenciád és erőd összege.",3,5,4,16/42,emperor
+s2-017.jpg,Hadrianus Crok,Fejlesztés,Kikereshetsz egy Crokot a paklidból és kézbeveheted.,4,7,4,17/42,rome
+s2-018.jpg,Mucius Scaevola Crok,Bátorság,"Egy kiválasztott értékét annyival szorozd meg, amennyi a paklid felső lapjának ereje öttel csökkentve.",8,7,6,18/42,gladiator
+s2-019.jpg,Neptun Crok,Vihar!,"A harcoló Crok képessége helyett, mutasd meg Neptunt, azután keverd be a paklidba, majd cseréltesd ki ellenfeledet paklija egy véletlen lapjára.",7,5,4,19/42,lightning
+s2-020.jpg,Nero Crok,Róma lángjai,Minden ellenfél reflexét és intelligenciáját csökkentsd hárommal.,3,7,3,20/42,tyrant
+s2-021.jpg,Vulcanus Crok,Csoda fegyver,"A harcoló Crok képessége helyett, mutasd meg Vulcanust, azután keverd be a paklidba és adj a harcoló Crokod erejéhez négyet.",8,6,2,21/42,lightning
+s2-022.jpg,Master Crok,Legendás lövés,Egy ellenfelet a vesztesek közé tehetsz vagy használhatod egy nyertes vagy vesztes Crok képességét.,7,8,9,22/42,master
+s2-023.jpg,Nagy Lajos Crok,Négy tenger,Az egyik ellenfél legkisebb értékét hozzáadhatod az egyik saját értékedhez.,7,8,6,23/42,royal
+s2-024.jpg,Rózsa Sándor Crok,Szabadcsapat,"Mellérakhatsz még két Crokot a kezedből, de akkor az ellenfeled is kirakhat két Crokot a harcba.",6,5,9,24/42,scoundrel
+s2-025.jpg,Toldi Miklós Crok,A farkas farkasa,"Csak akkor hatnak rá ellenfél képességei, ha erősebb, mint ő.",9,4,6,25/42,hero
+s2-026.jpg,Dobó István Crok,Védelem,"Védekezéskor minden értéke megnő hárommal, és azonnal nyer, ha az ellenfél használja a képességét.",7,6,3,26/42,captain
+s2-027.jpg,Gábor Áron Crok,Rézágyú,Mutasd fel paklid legfelső lapját. Az ellenfél Crokjai a vesztesek közé kerülnek ha egyik értékük megegyezik a felmutatott lap bármelyik értékével.,3,8,2,27/42,soldier
+s2-028.jpg,Hári János Crok,Nagyotmondó,"Megmondhatod a harc típusát: erő, intelligencia vagy reflex.",5,6,7,28/42,hero
+s2-029.jpg,Szt. István Crok,A kereszt kardja,"Annyival nőnek az értékei, amennyi magyar Crok van a kezedben és a nyerteseid között.",6,7,5,29/42,royal
+s2-030.jpg,János Vitéz Crok,A rózsa csodája,"Használhatod egy kezedben lévő Crokod képességét, amit meg kell mutatnod.",6,6,7,30/42,hero
+s2-031.jpg,Szt. László Crok,A megmentő,"Ha egy Crokodat legyőzik, kihívhatod az ellenfelét, úgy hogy ő kiteszed a kezedből, a harc típusát te határozod meg, ha nyersz, a megmentett Crokodat vedd vissza a kezedbe.",8,5,7,31/42,royal
+s2-032.jpg,Lehel Crok,A hang hatalma,"Ha védő, akkor kicserélheti az ellenfelét az ellenség egyik nyertes Crokjára, ha legyőzi, akkor egyből kihívhatja a kicseréltet is.",7,4,7,32/42,soldier
+s2-033.jpg,IV. Béla Crok,Várépítés,Védekezéskor harcoló minden Crokod ereje és reflexe megduplázódik.,5,6,4,33/42,royal
+s2-034.jpg,Dózsa György Crok,Égő tekintet,Az értékeit kicserélheted egy kiválasztott vesztes Crok értékeire.,8,5,6,34/42,soldier
+s2-035.jpg,Dugovics Titusz Crok,Önfeláldozás,"Ha a vesztesek közé teszed a harcból, akkor az ellenfél egy kiválasztott Crokját szintén a vesztesek közé teheted.",4,5,3,35/42,captain
+s2-036.jpg,Hunyadi János Crok,Még van itt egy hős!,"Ha elbukna egy harcban, akkor egyszer meg kell ismételni a harcot, de az ellenfél nem használhatja képességeit.",8,3,5,36/42,captain
+s2-037.jpg,Lúdas Matyi Crok,Háromszor veri vissza,Az ellenfél reflexét és erejét hárommal csökkenti.,3,7,7,37/42,hero
+s2-038.jpg,Patkó Bandi Crok,Ezüst patkó,"Amennyivel kisebb egy Croknak a reflexe, annyival kell csökkentenie az intelligenciáját és az erejét.",5,5,8,38/42,scoundrel
+s2-039.jpg,Sobri Jóska Crok,Bujdosás,"Kicserélheted a paklid egy véletlenszerű lapjára, utána keverd meg a paklid.",6,3,7,39/42,scoundrel
+s2-040.jpg,Tenkes Crok,Ravaszság,"Ha ki tudsz választani két olyan harcoló Crokot, akiknek egyik értéke megegyezik, akkor mindkettő a vesztesek közé kerül.",6,6,8,40/42,captain
+s2-041.jpg,Vak Bottyán Crok,Stratégia,"Az ellenfelek értékei annyival csökkennek, amennyivel kevesebb lap van a te kezedben, mint a kiválasztott játékosnál.",4,8,5,41/42,soldier
+s2-042.jpg,Vidrócky Crok,Egy esély,"Azonnal nyer, ha egy ellenfélnek megváltoznak az értékei.",6,4,7,42/42,scoundrel
